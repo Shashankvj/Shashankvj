@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankvj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashankvj" /></p>
 
-<p align="cleft"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvj" alt="shashankvj" /></a> </p>
+<p align="cleft"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"" alt="shashankvj" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankvj&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"" alt="shashankvj" /></p>
 
